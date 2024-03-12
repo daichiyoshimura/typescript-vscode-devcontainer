@@ -1,0 +1,29 @@
+{
+	"service": "ts-app",
+	"dockerComposeFile": "../../docker-compose.yml",
+	"workspaceFolder": "/usr/src/app",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"donjayamanne.githistory",
+				"ms-vscode.makefile-tools",
+				"redhat.vscode-yaml",
+				"eamodio.gitlens",
+				"felipecaputo.git-project-manager",
+				"ms-vscode.vscode-typescript-next",
+				"dsznajder.es7-react-js-snippets",
+				"jpoissonnier.vscode-styled-components",
+				"orta.vscode-jest",
+				"pkief.material-icon-theme",
+				"vscode-icons-team.vscode-icons",
+				"bradlc.vscode-tailwindcss",
+				"vscode-styled-components.styled-components-language-service",
+				"esbenp.prettier-vscode",
+				"vitejs.vite"
+			],
+			"settings": {
+				"terminal.integrated.shell.linux": "/bin/zsh"
+			}
+		}
+	}
+}
