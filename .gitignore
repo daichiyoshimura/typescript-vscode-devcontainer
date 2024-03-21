@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 secrets/
+dev/id_rsa
 dev/.gitconfig
