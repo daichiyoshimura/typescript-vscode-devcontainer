@@ -8,15 +8,9 @@ A sandbox for Typescript programming language by using vscode devcontainer.
 - Set dev/.gitconfig & env 
 - `docker compose up -d ts-app`
 
-## .gitconfig
+## Set up Git Setting
 
-```txt
-[credential]
-    helper = store
-[credential "https://github.com"]
-    username = xxxx
-    password = xxxx
-```
+See docker-compose.yml volumes
 
 ## Environment
 
